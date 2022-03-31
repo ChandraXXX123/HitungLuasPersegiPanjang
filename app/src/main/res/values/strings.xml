@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Hitung Persegi Panjang</string>
+    <string name="judul">Aplikasi Menghitung Luas Persegi Panjang</string>
+    <string name="panjang_persegi">PANJANG (cm)</string>
+    <string name="lebar_persegi">LEBAR (cm)</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil_x">Hasil: %1$.0f</string>
+
+    <string name="panjang_invalid">Panjang tidak boleh kosong.</string>
+    <string name="lebar_invalid">Lebar tidak boleh kosong.</string>
+    <string name="back">ulang</string>
+
+</resources>
